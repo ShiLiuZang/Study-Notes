@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "29d37fc1d3cc0f27",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd8b7e5becb5982f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "973208152f99c217",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/git学习笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git学习笔记"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef36c8049bf47d26",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3a1f3164802c8a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e768b6872c0b44d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "070b61a76292dda6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5412ba818cf0cc68",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dbb91603ac55edfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f472a66083e26751",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91ae072008b31729",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "2ff3ac3f7277ac48",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "59911936bfecd86a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "0486bfab92acef8d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "7ede80d019c6c3a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "0e768b6872c0b44d",
+  "lastOpenFiles": [
+    "git/未命名.md",
+    "git",
+    "MySQL数据库/DQL-执行顺序.md",
+    "FastAPI/19-SSE流式输出与WebSocket.md",
+    "FastAPI/20-Docker部署与工程化.md",
+    "FastAPI/00-FastAPI学习路线.md",
+    "MySQL数据库/DDL-表操作-创建 查询.md",
+    "ai应用学习路线.md",
+    "MySQL数据库/个人知识库数据库/数据字典.md",
+    "MySQL数据库/DCL-管理用户.md",
+    "MySQL数据库/DCL-权限控制.md",
+    "MySQL数据库/DQL-分页查询.md",
+    "MySQL数据库/DQL-基础查询.md",
+    "MySQL数据库/DQL-聚合函数.md",
+    "MySQL数据库/DQL-排序查询.md",
+    "MySQL数据库/DQL-条件查询.md",
+    "FastAPI/15-SQLAlchemy2异步ORM.md",
+    "FastAPI/04-响应模型与状态码.md",
+    "FastAPI/03-请求体与Pydantic模型.md",
+    "AI/05-最小展示页面.md",
+    "AI/03-结构化输出.md",
+    "AI/04-可靠性、上下文与成本.md",
+    "AI/02-Provider抽象.md",
+    "AI/01-Prompt与Temperature实验记录.md",
+    "AI/01-模型应用基本概念.md",
+    "AI/ai02_provider_demo/app.py",
+    "AI/ai02_provider_demo/requirements.txt",
+    "AI/ai02_provider_demo/step6_fastapi.py",
+    "AI/ai02_provider_demo/step5_chat_service.py",
+    "AI/ai02_provider_demo/step4_protocol.py",
+    "AI/ai02_provider_demo/使用 Protocol 定义 Provider 接口.py",
+    "AI/ai02_provider_demo/step3_pydantic.py~",
+    "AI/ai02_provider_demo/step3_pydantic.py",
+    "AI/ai02_provider_demo",
+    "FastAPI/01-FastAPI概览与第一个应用.md",
+    "FastAPI/08-Header、Cookie、表单与文件上传.md"
+  ]
+}
