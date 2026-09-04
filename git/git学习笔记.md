@@ -54,7 +54,7 @@ git config --list
 ```bash
 mkdir my-project
 cd my-project
-git init
+	git init
 ```
 
 命令说明：
