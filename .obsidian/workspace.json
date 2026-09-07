@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "git/git学习笔记.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -99,8 +99,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "java/day20-API（时间，包装类，练习）/API.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -159,6 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "git/git学习笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -166,13 +168,23 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "0ef57c55591f28d3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,55 +194,57 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "4c5df0fdb04fc22f",
   "lastOpenFiles": [
-    "java/day13-面向对象进阶（static&继承）/day13面向对象进阶.md",
-    "java/day13-面向对象进阶（static&继承）/imgs/3.jpg",
-    "java/day13-面向对象进阶（static&继承）/imgs/1.jpg",
-    "java/day11-集合&学生管理系统/img/04.png",
-    "java/day11-集合&学生管理系统/img/02.png",
-    "java/day11-集合&学生管理系统/img/01.png",
-    "java/day11-集合&学生管理系统/ArrayList&学生管理系统.md",
-    "java/day10-字符串/常用API.md",
-    "java/day10-字符串/img/03.png",
-    "java/day10-字符串/img/02.png",
-    "java/day10-字符串/img/01.png",
-    "java/day14-面向对象进阶（多态&包&final&权限修饰符&代码块）/img/多态练习的分析.png",
-    "java/day14-面向对象进阶（多态&包&final&权限修饰符&代码块）/img/多态的应用场景1.png",
-    "java/day14-面向对象进阶（多态&包&final&权限修饰符&代码块）/img",
-    "java/day14-面向对象进阶（多态&包&final&权限修饰符&代码块）/day14笔记.md",
-    "java/day14-面向对象进阶（多态&包&final&权限修饰符&代码块）",
-    "img/01.png.md",
-    "img",
-    "java/day09-面向对象综合训练/面向对象综合训练综合练习.md",
-    "java/day08-面向对象/day08-面向对象.md",
-    "java/day07-综合练习/综合练习.md",
-    "java/day06-方法/方法.md",
-    "java/day05-循环高级和数组/数组.md",
-    "java/day02-Java基础概念/day02-Java基础语法.md",
-    "java/day05-循环高级和数组/循环高级.md",
-    "java/day04-判断和循环/day04-流程控制语句.md",
-    "java/day01-Java入门/day01-Java基础语法.md",
-    "git/git学习笔记.md",
-    "java/Java基础.md",
-    "java/day11-集合&学生管理系统/img",
-    "java/day11-集合&学生管理系统",
-    "java/day10-字符串/img",
-    "java/day10-字符串",
-    "java/day09-面向对象综合训练/扩展：键盘录入笔记.md",
-    "java/day09-面向对象综合训练/img",
-    "java/day09-面向对象综合训练",
-    "java/day21-API（算法，lambda，练习）/算法.md",
-    "java/day21-API（算法，lambda，练习）/img",
-    "java/day20-API（时间，包装类，练习）/API.md",
-    "java/day19-API（正则表达式）/正则表达式.md",
-    "java/day18-API（常见API，对象克隆）/API.md",
-    "java/day17-面向对象综合练习（下）/day17-面向对象综合练习（下）.md",
-    "java/day15-面向对象进阶（抽象类&接口&内部类）/day03笔记.md",
-    "java/day16-面向对象综合练习（上）/day16-面向对象综合练习（上）.md",
-    "git/未命名.md"
+    "新建 文本文档.txt",
+    "java/35-基础加强（反射，动态代理）/笔记/反射&动态代理.md",
+    "java/33-网络编程/笔记/网络编程.md",
+    "java/32-多线程&juc/笔记/多线程02.md",
+    "java/31-多线程/笔记/多线程01.md",
+    "java/29-IO（其他流）/笔记/IO流（其他流）.md",
+    "java/28-IO（字节流&字符流）/笔记/IO流（字节流&字符流）.md",
+    "java/27-IO(异常&File&综合案例）/笔记/IO(异常&File&综合案例）.md",
+    "java/26-集合（Stream流&方法引用）/笔记/stream流和方法引用.md",
+    "java/25-阶段项目（综合练习&doudizhu游戏）/笔记/可变参数&综合练习.md",
+    "java/23-集合（泛型&Set&数据结构）/集合02.md",
+    "java/22-集合（List集合）/集合01.md",
+    "java/21-API（算法，lambda，练习）/算法.md",
+    "java/24-集合（Map&可变参数&集合工具类）/笔记/集合03.md",
+    "java/23-集合（泛型&Set&数据结构）/img/14_JKD8以前哈希表.png",
+    "java/23-集合（泛型&Set&数据结构）/img/15_JKD8以后哈希表.png",
+    "java/23-集合（泛型&Set&数据结构）/img/13_红黑树添加节点颜色.png",
+    "java/23-集合（泛型&Set&数据结构）/img/11_平衡二叉树右左.png",
+    "java/23-集合（泛型&Set&数据结构）/img/12_红黑树结构图.png",
+    "java/23-集合（泛型&Set&数据结构）/img/10_平衡二叉树右右.png",
+    "java/23-集合（泛型&Set&数据结构）/img/09_平衡二叉树左右.png",
+    "java/23-集合（泛型&Set&数据结构）/img/08_平衡二叉树左左.png",
+    "java/23-集合（泛型&Set&数据结构）/img/07_平衡二叉树和二叉查找树对比结构图.png",
+    "java/23-集合（泛型&Set&数据结构）/img/05_平衡二叉树左旋01.png",
+    "java/23-集合（泛型&Set&数据结构）/img",
+    "java/23-集合（泛型&Set&数据结构）/day23-笔记/笔记/集合02.md",
+    "java/23-集合（泛型&Set&数据结构）/day23-笔记/笔记/img",
+    "java/23-集合（泛型&Set&数据结构）/day23-笔记/笔记",
+    "java/23-集合（泛型&Set&数据结构）/day23-笔记",
+    "java/22-集合（List集合）/img",
+    "java/22-集合（List集合）/笔记/笔记/集合01.md",
+    "java/22-集合（List集合）/笔记/笔记/img",
+    "java/22-集合（List集合）/笔记/笔记",
+    "java/22-集合（List集合）/笔记",
+    "java/23-集合（泛型&Set&数据结构）/day23-笔记.rar",
+    "java/23-集合（泛型&Set&数据结构）",
+    "java/22-集合/集合03.md",
+    "java/20-API（时间，包装类，练习）/API.md",
+    "java/19-API（正则表达式）/正则表达式.md",
+    "java/18-API（常见API，对象克隆）/API.md",
+    "java/15-面向对象进阶（抽象类&接口&内部类）/day03笔记.md",
+    "java/14-面向对象进阶（多态&包&final&权限修饰符&代码块）/day14笔记.md",
+    "java/13-面向对象进阶（static&继承）/day13面向对象进阶.md",
+    "java/10-字符串/常用API.md",
+    "java/08-面向对象/day08-面向对象.md",
+    "java/07-综合练习/综合练习.md"
   ]
 }
